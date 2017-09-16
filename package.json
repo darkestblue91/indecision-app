@@ -1,6 +1,7 @@
 {
   "name": "indecision-app",
   "version": "1.0.0",
+  "description" : "Simple TODO build with React and SSCS, bundled with Webpack.",
   "main": "app.js",
   "author": "Josue Diaz",
   "license": "MIT",
